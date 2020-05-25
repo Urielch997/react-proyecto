@@ -11,3 +11,32 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+form{
+  width: 50%;
+}
+
+h1{
+  color:#fff;
+}
+
+input{
+  padding: 5px 10px;
+  width:50%;
+  margin:5px auto;
+  background: #455a64;
+  border:0px;
+  color:#eceff1;
+}
+
+input[type="submit"]{
+  background: #00695c;
+  border:0;
+  color:#fff;
+  cursor:pointer;
+}
+
+.side{
+  padding: 5px;
+  width: 50%;
+}
